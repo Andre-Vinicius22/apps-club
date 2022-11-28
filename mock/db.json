@@ -1,0 +1,33 @@
+{
+  "Operadora": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "cliente": [{ "id": 1, "name": "cliente-1", "id_operadora": 1 }],
+  "pacote": [
+    {
+      "id": 1,
+      "name": "apps",
+      "content": [
+        { "nameContent": "app1" },
+        { "nameContent": "app2" },
+        { "nameContent": "app3" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "games",
+      "content": [
+        { "nameContent": "game1" },
+        { "nameContent": "game2" },
+        { "nameContent": "game3" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "kids",
+      "content": [
+        { "nameContent": "kids1" },
+        { "nameContent": "kids2" },
+        { "nameContent": "app3" }
+      ]
+    }
+  ]
+}
