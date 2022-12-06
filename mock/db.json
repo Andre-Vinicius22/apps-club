@@ -1,15 +1,15 @@
 {
-  "Operadora": [
+  "operadora": [
     {
       "id": 1,
-      "title": "json-server"
+      "title": "Operadora-1"
     }
   ],
   "cliente": [
     {
       "id": 1,
       "name": "cliente-1",
-      "id_operadora": 1
+      "operadoraId": 1
     }
   ],
   "pacote": [
